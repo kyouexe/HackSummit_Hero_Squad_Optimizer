@@ -1,0 +1,196 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Updated color tokens for D&D theme with gold and purple palette */
+  --background: #f5f0e1; /* Parchment background */
+  --foreground: #3b2b6d; /* Dark purple for text */
+  --card: #ffffff; /* White for character cards */
+  --card-foreground: #3b2b6d; /* Dark purple for card text */
+  --popover: #ffffff; /* White for popover elements */
+  --popover-foreground: #3b2b6d; /* Dark purple for popover text */
+  --primary: #5b3fd8; /* Purple for primary actions */
+  --primary-foreground: #ffffff; /* White text on primary buttons */
+  --secondary: #d4af37; /* Gold for secondary actions */
+  --secondary-foreground: #3b2b6d; /* Dark purple for secondary button text */
+  --muted: #f5f0e1; /* Parchment for muted elements */
+  --muted-foreground: #3b2b6d; /* Dark purple for muted text */
+  --accent: #d4af37; /* Gold accents for highlights */
+  --accent-foreground: #3b2b6d; /* Dark purple for accent text */
+  --destructive: #e53e3e; /* Red for destructive actions */
+  --destructive-foreground: #ffffff; /* White text for destructive buttons */
+  --border: #3b2b6d; /* Dark purple for borders */
+  --input: #ffffff; /* White for input fields */
+  --ring: #5b3fd8; /* Purple for focus rings */
+  --chart-1: #5b3fd8; /* Purple for charts */
+  --chart-2: #d4af37; /* Gold for chart accents */
+  --chart-3: #3b2b6d; /* Dark purple for additional charts */
+  --chart-4: #f5f0e1; /* Parchment for chart backgrounds */
+  --chart-5: #e53e3e; /* Red for alert charts */
+  --radius: 0.5rem; /* Rounded corners */
+  --sidebar: #ffffff; /* White for sidebar background */
+  --sidebar-foreground: #3b2b6d; /* Dark purple for sidebar text */
+  --sidebar-primary: #5b3fd8; /* Purple for sidebar highlights */
+  --sidebar-primary-foreground: #ffffff; /* White text for sidebar highlights */
+  --sidebar-accent: #d4af37; /* Gold for sidebar accents */
+  --sidebar-accent-foreground: #3b2b6d; /* Dark purple for sidebar accent text */
+  --sidebar-border: #3b2b6d; /* Dark purple for sidebar borders */
+  --sidebar-ring: #5b3fd8; /* Purple focus ring for sidebar */
+}
+
+.dark {
+  --background: #1a1625; /* Dark purple background */
+  --foreground: #f5f0e1; /* Parchment text */
+  --card: #2d1b69; /* Dark purple cards */
+  --card-foreground: #f5f0e1; /* Parchment card text */
+  --popover: #2d1b69; /* Dark purple popover */
+  --popover-foreground: #f5f0e1; /* Parchment popover text */
+  --primary: #d4af37; /* Gold for primary actions in dark mode */
+  --primary-foreground: #1a1625; /* Dark text on gold buttons */
+  --secondary: #5b3fd8; /* Purple for secondary actions */
+  --secondary-foreground: #f5f0e1; /* Parchment text on purple */
+  --muted: #2d1b69; /* Dark purple for muted elements */
+  --muted-foreground: #a78bfa; /* Light purple for muted text */
+  --accent: #d4af37; /* Gold accents */
+  --accent-foreground: #1a1625; /* Dark text on gold */
+  --destructive: #e53e3e; /* Red for destructive actions */
+  --destructive-foreground: #ffffff; /* White text for destructive buttons */
+  --border: #5b3fd8; /* Purple borders */
+  --input: #2d1b69; /* Dark purple input fields */
+  --ring: #d4af37; /* Gold focus rings */
+  --chart-1: #d4af37; /* Gold for charts */
+  --chart-2: #5b3fd8; /* Purple for chart accents */
+  --chart-3: #a78bfa; /* Light purple for additional charts */
+  --chart-4: #2d1b69; /* Dark purple for chart backgrounds */
+  --chart-5: #e53e3e; /* Red for alert charts */
+  --sidebar: #1a1625; /* Dark background for sidebar */
+  --sidebar-foreground: #f5f0e1; /* Parchment for sidebar text */
+  --sidebar-primary: #d4af37; /* Gold for sidebar highlights */
+  --sidebar-primary-foreground: #1a1625; /* Dark text for sidebar highlights */
+  --sidebar-accent: #5b3fd8; /* Purple for sidebar accents */
+  --sidebar-accent-foreground: #f5f0e1; /* Parchment for sidebar accent text */
+  --sidebar-border: #5b3fd8; /* Purple for sidebar borders */
+  --sidebar-ring: #d4af37; /* Gold focus ring for sidebar */
+}
+
+@theme inline {
+  /* Added fantasy fonts for D&D theme */
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-fantasy: "Cinzel Decorative", "MedievalSharp", serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    /* --- CHANGED --- */
+    /* Updated animated gradient for gold + light purple magical mist effect */
+    background: linear-gradient(180deg, #f5f0e1 0%, #d1c4e9 50%, #d4af37 100%);
+    background-size: 100% 200%;
+    animation: mysticalMist 10s ease-in-out infinite alternate;
+  }
+
+  /* Added fantasy font classes */
+  .font-fantasy {
+    font-family: var(--font-fantasy);
+  }
+}
+
+/* Added magical animations */
+@keyframes mysticalMist {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 0% 100%;
+  }
+}
+
+@keyframes glow {
+  0%,
+  100% {
+    text-shadow: 0 0 5px #d4af37, 0 0 10px #d4af37, 0 0 15px #d4af37;
+  }
+  50% {
+    text-shadow: 0 0 10px #d4af37, 0 0 20px #d4af37, 0 0 30px #d4af37;
+  }
+}
+
+@keyframes spin3d {
+  0% {
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
+}
+
+.glow-text {
+  animation: glow 2s ease-in-out infinite;
+}
+
+.spin-3d {
+  animation: spin3d 2s ease-out;
+}
+
+@keyframes sweep-across {
+  0% {
+    left: -2rem; /* Start off-screen left */
+    opacity: 0.8;
+    transform: rotate(-45deg);
+  }
+  50% {
+    opacity: 1;
+    transform: rotate(20deg);
+  }
+  100% {
+    left: 100%; /* End off-screen right */
+    opacity: 0;
+    transform: rotate(45deg);
+  }
+}
+
+.animate-sweep {
+  animation: sweep-across 1.5s ease-in-out forwards;
+}
