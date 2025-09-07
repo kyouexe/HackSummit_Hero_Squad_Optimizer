@@ -1,0 +1,5022 @@
+[
+  {
+    "log_id": "log_001",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Grog",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 14,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 8
+      },
+      {
+        "name": "Elara",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 12,
+        "health": 10,
+        "mana": 30,
+        "dexterity": 14,
+        "wisdom": 25
+      },
+      {
+        "name": "Vex",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 25,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 28,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_002",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Bruenor",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 10,
+        "health": 40,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 6
+      },
+      {
+        "name": "Wulfgar",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 15,
+        "health": 38,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 5
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_003",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Stabby",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 22,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 10
+      },
+      {
+        "name": "Sneaky",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 28,
+        "health": 12,
+        "mana": 5,
+        "dexterity": 25,
+        "wisdom": 18
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_004",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Fizzlebang",
+        "type": "Mage",
+        "strength": 5,
+        "agility": 14,
+        "health": 8,
+        "mana": 28,
+        "dexterity": 15,
+        "wisdom": 22
+      },
+      {
+        "name": "Sparky",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 13,
+        "health": 9,
+        "mana": 27,
+        "dexterity": 16,
+        "wisdom": 24
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_005",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Merlin",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 11,
+        "health": 12,
+        "mana": 35,
+        "dexterity": 13,
+        "wisdom": 30
+      },
+      {
+        "name": "Locke",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 22,
+        "health": 14,
+        "mana": 10,
+        "dexterity": 24,
+        "wisdom": 20
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_006",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Conan",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 16,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 14,
+        "wisdom": 9
+      },
+      {
+        "name": "Red Sonja",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 20,
+        "health": 25,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_007",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Clumsy",
+        "type": "Barbarian",
+        "strength": 22,
+        "agility": 8,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 10
+      },
+      {
+        "name": "Zappy",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 12,
+        "health": 11,
+        "mana": 25,
+        "dexterity": 10,
+        "wisdom": 21
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_008",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Solo Rogue",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 28,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 30,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_009",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Gandalf",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 13,
+        "health": 15,
+        "mana": 28,
+        "dexterity": 15,
+        "wisdom": 29
+      },
+      {
+        "name": "Aragorn",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 18,
+        "health": 22,
+        "mana": 10,
+        "dexterity": 17,
+        "wisdom": 18
+      },
+      {
+        "name": "Gimli",
+        "type": "Barbarian",
+        "strength": 24,
+        "agility": 12,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 10
+      },
+      {
+        "name": "Legolas",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 26,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 28,
+        "wisdom": 16
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_010",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Tank",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 10,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 8
+      },
+      {
+        "name": "Glass Cannon",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 14,
+        "health": 9,
+        "mana": 31,
+        "dexterity": 12,
+        "wisdom": 22
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_011",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Drizzt",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 29,
+        "health": 16,
+        "mana": 12,
+        "dexterity": 30,
+        "wisdom": 18
+      },
+      {
+        "name": "Catti-brie",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 24,
+        "health": 18,
+        "mana": 13,
+        "dexterity": 22,
+        "wisdom": 17
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_012",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Quick Blade",
+        "type": "Bandit",
+        "strength": 17,
+        "agility": 21,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 9
+      },
+      {
+        "name": "Sharp Edge",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 23,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 21,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_013",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "A",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 10,
+        "health": 10,
+        "mana": 25,
+        "dexterity": 10,
+        "wisdom": 20
+      },
+      {
+        "name": "B",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 10,
+        "health": 10,
+        "mana": 25,
+        "dexterity": 10,
+        "wisdom": 20
+      },
+      {
+        "name": "C",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 10,
+        "health": 10,
+        "mana": 25,
+        "dexterity": 10,
+        "wisdom": 20
+      },
+      {
+        "name": "D",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 10,
+        "health": 10,
+        "mana": 25,
+        "dexterity": 10,
+        "wisdom": 20
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_014",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Balanced Bob",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 15,
+        "wisdom": 10
+      },
+      {
+        "name": "Steady Sarah",
+        "type": "Barbarian",
+        "strength": 18,
+        "agility": 12,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_015",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Wise One",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 14,
+        "health": 13,
+        "mana": 26,
+        "dexterity": 16,
+        "wisdom": 28
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_016",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Solo Barb",
+        "type": "Barbarian",
+        "strength": 35,
+        "agility": 12,
+        "health": 45,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 6
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_017",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Kael",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 15,
+        "health": 11,
+        "mana": 29,
+        "dexterity": 18,
+        "wisdom": 24
+      },
+      {
+        "name": "Jaina",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 16,
+        "health": 10,
+        "mana": 32,
+        "dexterity": 17,
+        "wisdom": 26
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_018",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Fumble",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 20,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_019",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Axe",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 11,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 9
+      },
+      {
+        "name": "Blade",
+        "type": "Bandit",
+        "strength": 19,
+        "agility": 21,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 11
+      },
+      {
+        "name": "Arrow",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 24,
+        "health": 17,
+        "mana": 5,
+        "dexterity": 25,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_020",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Rikimaru",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 30,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 32,
+        "wisdom": 14
+      },
+      {
+        "name": "Lina",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 18,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 16,
+        "wisdom": 20
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_021",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Low Stat Hero",
+        "type": "Bandit",
+        "strength": 8,
+        "agility": 9,
+        "health": 10,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_022",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Thinker",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 12,
+        "health": 11,
+        "mana": 25,
+        "dexterity": 14,
+        "wisdom": 35
+      },
+      {
+        "name": "Observer",
+        "type": "Rogue",
+        "strength": 10,
+        "agility": 20,
+        "health": 13,
+        "mana": 10,
+        "dexterity": 22,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_023",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Trapper",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 25,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 28,
+        "wisdom": 15
+      },
+      {
+        "name": "Scout",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 26,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 29,
+        "wisdom": 16
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_024",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Leeroy",
+        "type": "Barbarian",
+        "strength": 20,
+        "agility": 10,
+        "health": 25,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 5
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_025",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Forrest",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 15,
+        "dexterity": 15,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_026",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Knight",
+        "type": "Barbarian",
+        "strength": 22,
+        "agility": 15,
+        "health": 28,
+        "mana": 10,
+        "dexterity": 14,
+        "wisdom": 11
+      },
+      {
+        "name": "Priest",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 11,
+        "health": 14,
+        "mana": 24,
+        "dexterity": 10,
+        "wisdom": 22
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_027",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Bull",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 10,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 9
+      },
+      {
+        "name": "China Shop",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 9,
+        "health": 29,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_028",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Solo Mage",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 14,
+        "health": 12,
+        "mana": 30,
+        "dexterity": 15,
+        "wisdom": 29
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_029",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Weak Tank",
+        "type": "Barbarian",
+        "strength": 18,
+        "agility": 10,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 8
+      },
+      {
+        "name": "Frail Mage",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 12,
+        "health": 7,
+        "mana": 22,
+        "dexterity": 11,
+        "wisdom": 19
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_030",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Solo Bandit",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 24,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_031",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Brain",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 10,
+        "health": 10,
+        "mana": 25,
+        "dexterity": 10,
+        "wisdom": 25
+      },
+      {
+        "name": "Brawn",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 10,
+        "health": 25,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 5
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_032",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Karg",
+        "type": "Bandit",
+        "strength": 22,
+        "agility": 18,
+        "health": 24,
+        "mana": 5,
+        "dexterity": 16,
+        "wisdom": 10
+      },
+      {
+        "name": "Lurtz",
+        "type": "Bandit",
+        "strength": 21,
+        "agility": 19,
+        "health": 22,
+        "mana": 5,
+        "dexterity": 17,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_033",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Solo Mage",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 13,
+        "health": 11,
+        "mana": 27,
+        "dexterity": 15,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_034",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Dumb Rogue",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 22,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 24,
+        "wisdom": 7
+      },
+      {
+        "name": "Dumber Barb",
+        "type": "Barbarian",
+        "strength": 24,
+        "agility": 14,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 4
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_035",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Four",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 15,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 13,
+        "wisdom": 8
+      },
+      {
+        "name": "Amigos",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 14,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 14,
+        "wisdom": 24
+      },
+      {
+        "name": "Party",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 25,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 28,
+        "wisdom": 15
+      },
+      {
+        "name": "Up",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 20,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_036",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Slowpoke",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 8,
+        "health": 10,
+        "mana": 20,
+        "dexterity": 9,
+        "wisdom": 22
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_037",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Average Joe",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 15,
+        "dexterity": 15,
+        "wisdom": 15
+      },
+      {
+        "name": "Average Jane",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 15,
+        "dexterity": 15,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_038",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Ponder",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 11,
+        "health": 13,
+        "mana": 29,
+        "dexterity": 12,
+        "wisdom": 31
+      },
+      {
+        "name": "Reflect",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 12,
+        "health": 12,
+        "mana": 31,
+        "dexterity": 11,
+        "wisdom": 32
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_039",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Slick",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 27,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 29,
+        "wisdom": 19
+      },
+      {
+        "name": "Brick",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 11,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_040",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "TrioA",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 18,
+        "health": 18,
+        "mana": 8,
+        "dexterity": 18,
+        "wisdom": 8
+      },
+      {
+        "name": "TrioB",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 18,
+        "health": 18,
+        "mana": 8,
+        "dexterity": 18,
+        "wisdom": 8
+      },
+      {
+        "name": "TrioC",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 18,
+        "health": 18,
+        "mana": 8,
+        "dexterity": 18,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_041",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Scholar",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 10,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 14,
+        "wisdom": 29
+      },
+      {
+        "name": "Thug",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 12,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 4
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_042",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "One",
+        "type": "Barbarian",
+        "strength": 20,
+        "agility": 15,
+        "health": 25,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 10
+      },
+      {
+        "name": "Two",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 12,
+        "health": 15,
+        "mana": 25,
+        "dexterity": 15,
+        "wisdom": 20
+      },
+      {
+        "name": "Three",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 25,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 22,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_043",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Four",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 22,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 24,
+        "wisdom": 14
+      },
+      {
+        "name": "Horsemen",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 23,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 25,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_044",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Solo Bandit",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 18,
+        "health": 17,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 11
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_045",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "DuoA",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 24,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 26,
+        "wisdom": 16
+      },
+      {
+        "name": "DuoB",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 25,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 27,
+        "wisdom": 17
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_046",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "WeaklingsA",
+        "type": "Bandit",
+        "strength": 12,
+        "agility": 14,
+        "health": 13,
+        "mana": 5,
+        "dexterity": 15,
+        "wisdom": 9
+      },
+      {
+        "name": "WeaklingsB",
+        "type": "Bandit",
+        "strength": 13,
+        "agility": 12,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 14,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_047",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Balanced Mage",
+        "type": "Mage",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 15,
+        "dexterity": 15,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_048",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Four Heavy",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 10,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 8
+      },
+      {
+        "name": "Footed Folks",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 9,
+        "health": 32,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 7
+      },
+      {
+        "name": "Stomp Stomp",
+        "type": "Barbarian",
+        "strength": 24,
+        "agility": 11,
+        "health": 29,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 9
+      },
+      {
+        "name": "CRUNCH",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 8,
+        "health": 34,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 6
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_049",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Veteran",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 20,
+        "health": 20,
+        "mana": 10,
+        "dexterity": 20,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_050",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Lorekeeper",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 13,
+        "health": 14,
+        "mana": 27,
+        "dexterity": 15,
+        "wisdom": 29
+      },
+      {
+        "name": "Seeker",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 21,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 23,
+        "wisdom": 19
+      },
+      {
+        "name": "Guardian",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 14,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_051",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Pathfinder",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 30,
+        "health": 17,
+        "mana": 10,
+        "dexterity": 32,
+        "wisdom": 20
+      },
+      {
+        "name": "Glyph",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 15,
+        "health": 13,
+        "mana": 28,
+        "dexterity": 18,
+        "wisdom": 29
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_052",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Spellshield",
+        "type": "Mage",
+        "strength": 12,
+        "agility": 16,
+        "health": 18,
+        "mana": 25,
+        "dexterity": 14,
+        "wisdom": 22
+      },
+      {
+        "name": "Ironhide",
+        "type": "Barbarian",
+        "strength": 31,
+        "agility": 11,
+        "health": 42,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_053",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Gorok",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 13,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 4
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_054",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Fletch",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 25,
+        "health": 19,
+        "mana": 10,
+        "dexterity": 28,
+        "wisdom": 13
+      },
+      {
+        "name": "Nock",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 26,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 27,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_055",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Mechanist",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 24,
+        "health": 16,
+        "mana": 15,
+        "dexterity": 35,
+        "wisdom": 21
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_056",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Oracle",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 13,
+        "health": 14,
+        "mana": 33,
+        "dexterity": 16,
+        "wisdom": 35
+      },
+      {
+        "name": "Savant",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 14,
+        "health": 13,
+        "mana": 32,
+        "dexterity": 17,
+        "wisdom": 34
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_057",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Spellguard",
+        "type": "Mage",
+        "strength": 14,
+        "agility": 15,
+        "health": 20,
+        "mana": 26,
+        "dexterity": 13,
+        "wisdom": 20
+      },
+      {
+        "name": "Warden",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 12,
+        "health": 38,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_058",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Breaker",
+        "type": "Barbarian",
+        "strength": 33,
+        "agility": 9,
+        "health": 36,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 6
+      },
+      {
+        "name": "Smasher",
+        "type": "Barbarian",
+        "strength": 32,
+        "agility": 8,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 6,
+        "wisdom": 5
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_059",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Blade Dancer",
+        "type": "Rogue",
+        "strength": 16,
+        "agility": 29,
+        "health": 19,
+        "mana": 10,
+        "dexterity": 27,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_060",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Prodigy",
+        "type": "Mage",
+        "strength": 11,
+        "agility": 16,
+        "health": 15,
+        "mana": 29,
+        "dexterity": 18,
+        "wisdom": 31
+      },
+      {
+        "name": "Journeyman",
+        "type": "Bandit",
+        "strength": 17,
+        "agility": 18,
+        "health": 19,
+        "mana": 10,
+        "dexterity": 17,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_061",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Ghost",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 31,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 34,
+        "wisdom": 17
+      },
+      {
+        "name": "Wraith",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 32,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 33,
+        "wisdom": 18
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_062",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Novice",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 9,
+        "health": 8,
+        "mana": 18,
+        "dexterity": 10,
+        "wisdom": 15
+      },
+      {
+        "name": "Apprentice",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 10,
+        "health": 9,
+        "mana": 19,
+        "dexterity": 11,
+        "wisdom": 16
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_063",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Rune Master",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 13,
+        "health": 16,
+        "mana": 28,
+        "dexterity": 17,
+        "wisdom": 33
+      },
+      {
+        "name": "Cartographer",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 21,
+        "health": 17,
+        "mana": 10,
+        "dexterity": 23,
+        "wisdom": 24
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_064",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Stonefoot",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 8,
+        "health": 34,
+        "mana": 5,
+        "dexterity": 6,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_065",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Commander",
+        "type": "Bandit",
+        "strength": 22,
+        "agility": 21,
+        "health": 25,
+        "mana": 10,
+        "dexterity": 20,
+        "wisdom": 15
+      },
+      {
+        "name": "Vanguard",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 15,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 9
+      },
+      {
+        "name": "Support",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 14,
+        "health": 14,
+        "mana": 27,
+        "dexterity": 16,
+        "wisdom": 23
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_066",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Lockpicker",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 28,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 31,
+        "wisdom": 19
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_067",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Thump",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 11,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 6
+      },
+      {
+        "name": "Krung",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 10,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 5
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_068",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Aegis",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 13,
+        "health": 44,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 9
+      },
+      {
+        "name": "Bulwark",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 14,
+        "health": 42,
+        "mana": 5,
+        "dexterity": 13,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_069",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Tripwire",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 26,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 29,
+        "wisdom": 18
+      },
+      {
+        "name": "Insight",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 15,
+        "health": 14,
+        "mana": 27,
+        "dexterity": 17,
+        "wisdom": 26
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_070",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Riddler",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 23,
+        "health": 17,
+        "mana": 5,
+        "dexterity": 21,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_071",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Solo Sorcerer",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 16,
+        "health": 12,
+        "mana": 35,
+        "dexterity": 15,
+        "wisdom": 24
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_072",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Glass",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 14,
+        "health": 9,
+        "mana": 29,
+        "dexterity": 21,
+        "wisdom": 25
+      },
+      {
+        "name": "Shadow",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 28,
+        "health": 14,
+        "mana": 10,
+        "dexterity": 31,
+        "wisdom": 16
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_073",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Stiletto",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 27,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 25,
+        "wisdom": 12
+      },
+      {
+        "name": "Dagger",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 28,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 26,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_074",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "The Unwise",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 20,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_075",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Oaf",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 12,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 8
+      },
+      {
+        "name": "Lout",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 11,
+        "health": 29,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_076",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Champion",
+        "type": "Barbarian",
+        "strength": 35,
+        "agility": 15,
+        "health": 40,
+        "mana": 5,
+        "dexterity": 14,
+        "wisdom": 10
+      },
+      {
+        "name": "Squire",
+        "type": "Bandit",
+        "strength": 12,
+        "agility": 14,
+        "health": 13,
+        "mana": 5,
+        "dexterity": 13,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_077",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Loremaster",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 14,
+        "health": 13,
+        "mana": 30,
+        "dexterity": 16,
+        "wisdom": 34
+      },
+      {
+        "name": "Inquisitor",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 20,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 22,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_078",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Legend",
+        "type": "Bandit",
+        "strength": 25,
+        "agility": 25,
+        "health": 25,
+        "mana": 15,
+        "dexterity": 25,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_079",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Arcanist",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 16,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 19,
+        "wisdom": 27
+      },
+      {
+        "name": "Conjurer",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 15,
+        "health": 11,
+        "mana": 29,
+        "dexterity": 18,
+        "wisdom": 28
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_080",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Keystone",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 12,
+        "health": 15,
+        "mana": 25,
+        "dexterity": 14,
+        "wisdom": 30
+      },
+      {
+        "name": "Guard",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 14,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 8
+      },
+      {
+        "name": "Finder",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 22,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 24,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_081",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Paladin",
+        "type": "Bandit",
+        "strength": 26,
+        "agility": 18,
+        "health": 30,
+        "mana": 15,
+        "dexterity": 17,
+        "wisdom": 20
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_082",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Elementalist",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 14,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 11,
+        "wisdom": 25
+      },
+      {
+        "name": "Illusionist",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 15,
+        "health": 11,
+        "mana": 29,
+        "dexterity": 12,
+        "wisdom": 26
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_083",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Rook",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 22,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 11
+      },
+      {
+        "name": "Bishop",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 19,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 17,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_084",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Tanky",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 10,
+        "health": 48,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 8
+      },
+      {
+        "name": "Nuker",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 16,
+        "health": 9,
+        "mana": 38,
+        "dexterity": 15,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_085",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Agile Brute",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 18,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_086",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Cunning",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 20,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 19,
+        "wisdom": 26
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_087",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Slayer",
+        "type": "Bandit",
+        "strength": 22,
+        "agility": 20,
+        "health": 24,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 11
+      },
+      {
+        "name": "Hunter",
+        "type": "Bandit",
+        "strength": 21,
+        "agility": 22,
+        "health": 23,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_088",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Swift",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 28,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 33,
+        "wisdom": 18
+      },
+      {
+        "name": "Slow",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 8,
+        "health": 32,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_089",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Average 1",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 16,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 16,
+        "wisdom": 12
+      },
+      {
+        "name": "Average 2",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 18,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 17,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_090",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Fragile",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 25,
+        "health": 12,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_091",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Jack of All",
+        "type": "Bandit",
+        "strength": 17,
+        "agility": 17,
+        "health": 17,
+        "mana": 12,
+        "dexterity": 17,
+        "wisdom": 17
+      },
+      {
+        "name": "Jill of All",
+        "type": "Rogue",
+        "strength": 16,
+        "agility": 18,
+        "health": 16,
+        "mana": 12,
+        "dexterity": 18,
+        "wisdom": 18
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_092",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Genius",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 12,
+        "health": 13,
+        "mana": 30,
+        "dexterity": 14,
+        "wisdom": 40
+      },
+      {
+        "name": "Meat Shield",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 10,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 3
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_093",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Striker",
+        "type": "Rogue",
+        "strength": 16,
+        "agility": 30,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 28,
+        "wisdom": 14
+      },
+      {
+        "name": "Crusher",
+        "type": "Barbarian",
+        "strength": 32,
+        "agility": 14,
+        "health": 38,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_094",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "The Seer",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 13,
+        "health": 12,
+        "mana": 27,
+        "dexterity": 10,
+        "wisdom": 30
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_095",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "The Acrobat",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 28,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 30,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_096",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Mender",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 14,
+        "health": 16,
+        "mana": 28,
+        "dexterity": 13,
+        "wisdom": 24
+      },
+      {
+        "name": "Protector",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 13,
+        "health": 45,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_097",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Carry",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 29,
+        "health": 17,
+        "mana": 10,
+        "dexterity": 38,
+        "wisdom": 20
+      },
+      {
+        "name": "Baggage A",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 9,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 8
+      },
+      {
+        "name": "Baggage B",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 8,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_098",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Team A",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 18,
+        "health": 17,
+        "mana": 10,
+        "dexterity": 17,
+        "wisdom": 16
+      },
+      {
+        "name": "Team B",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 20,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 19,
+        "wisdom": 17
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_099",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Cannon A",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 15,
+        "health": 8,
+        "mana": 35,
+        "dexterity": 14,
+        "wisdom": 22
+      },
+      {
+        "name": "Cannon B",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 16,
+        "health": 7,
+        "mana": 36,
+        "dexterity": 15,
+        "wisdom": 23
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_100",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Observer A",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 12,
+        "health": 13,
+        "mana": 25,
+        "dexterity": 11,
+        "wisdom": 28
+      },
+      {
+        "name": "Observer B",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 13,
+        "health": 12,
+        "mana": 26,
+        "dexterity": 10,
+        "wisdom": 29
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_101",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Stomper",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 8,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 6,
+        "wisdom": 9
+      },
+      {
+        "name": "Crusher",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 9,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_102",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Gruk",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 14,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 4
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_103",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Zorp",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 15,
+        "health": 7,
+        "mana": 28,
+        "dexterity": 14,
+        "wisdom": 22
+      },
+      {
+        "name": "Meep",
+        "type": "Mage",
+        "strength": 5,
+        "agility": 14,
+        "health": 8,
+        "mana": 29,
+        "dexterity": 15,
+        "wisdom": 21
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_104",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Unwise Mage",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 11,
+        "health": 12,
+        "mana": 25,
+        "dexterity": 9,
+        "wisdom": 18
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_105",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Flimsy Rogue",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 25,
+        "health": 10,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_106",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Shiv",
+        "type": "Bandit",
+        "strength": 19,
+        "agility": 21,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 8
+      },
+      {
+        "name": "Shank",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 22,
+        "health": 17,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_107",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Weaklings United",
+        "type": "Bandit",
+        "strength": 14,
+        "agility": 15,
+        "health": 12,
+        "mana": 5,
+        "dexterity": 16,
+        "wisdom": 10
+      },
+      {
+        "name": "Fragile Friends",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 18,
+        "health": 11,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_108",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Slow Mage",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 10,
+        "health": 11,
+        "mana": 26,
+        "dexterity": 8,
+        "wisdom": 24
+      },
+      {
+        "name": "Clumsy Mage",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 9,
+        "health": 10,
+        "mana": 25,
+        "dexterity": 7,
+        "wisdom": 23
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_109",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Underpowered",
+        "type": "Barbarian",
+        "strength": 15,
+        "agility": 10,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_110",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Impulsive Rogue",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 24,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 6
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_111",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Think-First",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 12,
+        "health": 10,
+        "mana": 28,
+        "dexterity": 10,
+        "wisdom": 29
+      },
+      {
+        "name": "Act-First",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 11,
+        "health": 32,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_112",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Expendables A",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 17,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 15,
+        "wisdom": 9
+      },
+      {
+        "name": "The Expendables B",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 18,
+        "health": 13,
+        "mana": 5,
+        "dexterity": 16,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_113",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Gorignak",
+        "type": "Barbarian",
+        "strength": 32,
+        "agility": 10,
+        "health": 36,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 3
+      },
+      {
+        "name": "Thok",
+        "type": "Barbarian",
+        "strength": 31,
+        "agility": 11,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 4
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_114",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Lone Brute",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 12,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_115",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Trio of Glass",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 14,
+        "health": 9,
+        "mana": 26,
+        "dexterity": 13,
+        "wisdom": 23
+      },
+      {
+        "name": "Cannons",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 15,
+        "health": 8,
+        "mana": 27,
+        "dexterity": 12,
+        "wisdom": 24
+      },
+      {
+        "name": "United",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 13,
+        "health": 10,
+        "mana": 25,
+        "dexterity": 14,
+        "wisdom": 22
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_116",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Book Smart",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 11,
+        "health": 13,
+        "mana": 30,
+        "dexterity": 10,
+        "wisdom": 32
+      },
+      {
+        "name": "Street Dumb",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 12,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 5
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_117",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Heavy Hands",
+        "type": "Bandit",
+        "strength": 22,
+        "agility": 15,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 13,
+        "wisdom": 11
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_118",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Team Squishy",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 26,
+        "health": 12,
+        "mana": 5,
+        "dexterity": 24,
+        "wisdom": 14
+      },
+      {
+        "name": "And Puffy",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 16,
+        "health": 9,
+        "mana": 30,
+        "dexterity": 15,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_119",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "All Brawn A",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 13,
+        "health": 32,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 6
+      },
+      {
+        "name": "All Brawn B",
+        "type": "Bandit",
+        "strength": 21,
+        "agility": 18,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 16,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_120",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Four Heavy Boots",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 9,
+        "health": 29,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 10
+      },
+      {
+        "name": "Marching In Line",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 10,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 11
+      },
+      {
+        "name": "What's That Click",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 8,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 9
+      },
+      {
+        "name": "Oh No",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 7,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 6,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_121",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "One Man Army?",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 20,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_122",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Know-it-all",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 12,
+        "health": 11,
+        "mana": 28,
+        "dexterity": 13,
+        "wisdom": 35
+      },
+      {
+        "name": "Knows-nothing",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 11,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 3
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_123",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Distracted Rogue",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 22,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_124",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Tired Barbarian",
+        "type": "Barbarian",
+        "strength": 22,
+        "agility": 11,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 8
+      },
+      {
+        "name": "Tired Mage",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 11,
+        "health": 8,
+        "mana": 18,
+        "dexterity": 12,
+        "wisdom": 19
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_125",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Confused Bandit",
+        "type": "Bandit",
+        "strength": 17,
+        "agility": 19,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 8
+      },
+      {
+        "name": "Lost Rogue",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 22,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_126",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Slow Rogue",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 15,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 14,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_127",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Solo Mage?",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 16,
+        "health": 10,
+        "mana": 32,
+        "dexterity": 15,
+        "wisdom": 28
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_128",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Duo of Dimwits A",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 13,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 6
+      },
+      {
+        "name": "Duo of Dimwits B",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 19,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 17,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_129",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Unbalanced Party A",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 12,
+        "health": 9,
+        "mana": 27,
+        "dexterity": 10,
+        "wisdom": 25
+      },
+      {
+        "name": "Unbalanced Party B",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 11,
+        "health": 10,
+        "mana": 26,
+        "dexterity": 9,
+        "wisdom": 26
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_130",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Blades",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 28,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 26,
+        "wisdom": 15
+      },
+      {
+        "name": "Without Brawn",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 29,
+        "health": 13,
+        "mana": 5,
+        "dexterity": 27,
+        "wisdom": 16
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_131",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Bumbling Fool",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 14,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_132",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "The Unfocused",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 20,
+        "health": 15,
+        "mana": 15,
+        "dexterity": 18,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_133",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Team Average A",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 15,
+        "wisdom": 10
+      },
+      {
+        "name": "Team Average B",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 16,
+        "health": 14,
+        "mana": 10,
+        "dexterity": 16,
+        "wisdom": 11
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_134",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Team Brains",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 13,
+        "health": 11,
+        "mana": 28,
+        "dexterity": 11,
+        "wisdom": 29
+      },
+      {
+        "name": "Without Agility",
+        "type": "Mage",
+        "strength": 7,
+        "agility": 12,
+        "health": 10,
+        "mana": 29,
+        "dexterity": 10,
+        "wisdom": 30
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_135",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "The Impatient",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 22,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_136",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Low Health Tank",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 14,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_137",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Unobservant Rogue",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 28,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 29,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_138",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Brute Force Logic A",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 13,
+        "health": 29,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 7
+      },
+      {
+        "name": "Brute Force Logic B",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 14,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 6
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_139",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Low Mana Mage",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 15,
+        "health": 12,
+        "mana": 10,
+        "dexterity": 14,
+        "wisdom": 22
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_140",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Bad Combination",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 12,
+        "health": 11,
+        "mana": 25,
+        "dexterity": 13,
+        "wisdom": 28
+      },
+      {
+        "name": "Worse Combination",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 10,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_141",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "All-Rounder",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 15,
+        "dexterity": 15,
+        "wisdom": 15
+      },
+      {
+        "name": "Master of None",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 16,
+        "health": 16,
+        "mana": 14,
+        "dexterity": 14,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_142",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Forgets-the-clue",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 21,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 8
+      },
+      {
+        "name": "Writes-it-down",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 13,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 14,
+        "wisdom": 30
+      },
+      {
+        "name": "Eats-the-parchment",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 12,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 4
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_143",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Hesitant Hero",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 20,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_144",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Unlucky",
+        "type": "Bandit",
+        "strength": 22,
+        "agility": 23,
+        "health": 21,
+        "mana": 10,
+        "dexterity": 20,
+        "wisdom": 14
+      },
+      {
+        "name": "Unluckier",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 14,
+        "health": 24,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_145",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Solo Thinker",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 25,
+        "health": 17,
+        "mana": 10,
+        "dexterity": 22,
+        "wisdom": 18
+      },
+      {
+        "name": "Solo Doer",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 15,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 13,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_146",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Glass Hammer",
+        "type": "Barbarian",
+        "strength": 35,
+        "agility": 12,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_147",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "The Four Stooges A",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 15,
+        "health": 17,
+        "mana": 5,
+        "dexterity": 14,
+        "wisdom": 9
+      },
+      {
+        "name": "The Four Stooges B",
+        "type": "Bandit",
+        "strength": 17,
+        "agility": 16,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 13,
+        "wisdom": 10
+      },
+      {
+        "name": "The Four Stooges C",
+        "type": "Bandit",
+        "strength": 19,
+        "agility": 14,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 15,
+        "wisdom": 8
+      },
+      {
+        "name": "The Four Stooges D",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 17,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 11
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_148",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "All-Stat Zero",
+        "type": "Bandit",
+        "strength": 12,
+        "agility": 12,
+        "health": 12,
+        "mana": 12,
+        "dexterity": 12,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_149",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Wrong Tool",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 18,
+        "health": 10,
+        "mana": 30,
+        "dexterity": 16,
+        "wisdom": 25
+      },
+      {
+        "name": "For The Job",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 28,
+        "health": 12,
+        "mana": 5,
+        "dexterity": 25,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_150",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Lone Mage",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 14,
+        "health": 11,
+        "mana": 29,
+        "dexterity": 12,
+        "wisdom": 27
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_151",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Nimblefingers",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 33,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 38,
+        "wisdom": 22
+      },
+      {
+        "name": "Hawkeye",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 28,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 30,
+        "wisdom": 19
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_152",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Grog the Confused",
+        "type": "Barbarian",
+        "strength": 35,
+        "agility": 10,
+        "health": 40,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 3
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_153",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Ironwall",
+        "type": "Barbarian",
+        "strength": 32,
+        "agility": 14,
+        "health": 50,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 9
+      },
+      {
+        "name": "Sunbeam",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 15,
+        "health": 18,
+        "mana": 30,
+        "dexterity": 16,
+        "wisdom": 28
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_154",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Flicker",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 28,
+        "health": 11,
+        "mana": 5,
+        "dexterity": 25,
+        "wisdom": 14
+      },
+      {
+        "name": "Whisper",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 29,
+        "health": 10,
+        "mana": 5,
+        "dexterity": 26,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_155",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "The Enigma",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 14,
+        "health": 15,
+        "mana": 35,
+        "dexterity": 18,
+        "wisdom": 38
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_156",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Sir Trips-a-lot",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 8,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 6,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_157",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Battle Mage Thyra",
+        "type": "Mage",
+        "strength": 18,
+        "agility": 16,
+        "health": 22,
+        "mana": 25,
+        "dexterity": 15,
+        "wisdom": 20
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_158",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Four Brutes",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 10,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 5
+      },
+      {
+        "name": "Enter A",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 9,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 9,
+        "wisdom": 4
+      },
+      {
+        "name": "Library",
+        "type": "Barbarian",
+        "strength": 24,
+        "agility": 11,
+        "health": 29,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 6
+      },
+      {
+        "name": "...",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 8,
+        "health": 32,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 3
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_159",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Agile Brute",
+        "type": "Barbarian",
+        "strength": 24,
+        "agility": 20,
+        "health": 28,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_160",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Swarm A",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 22,
+        "health": 20,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 10
+      },
+      {
+        "name": "The Swarm B",
+        "type": "Bandit",
+        "strength": 19,
+        "agility": 21,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 11
+      },
+      {
+        "name": "The Swarm C",
+        "type": "Bandit",
+        "strength": 17,
+        "agility": 23,
+        "health": 21,
+        "mana": 5,
+        "dexterity": 21,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_161",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Sage",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 13,
+        "health": 14,
+        "mana": 30,
+        "dexterity": 15,
+        "wisdom": 32
+      },
+      {
+        "name": "Scribe",
+        "type": "Rogue",
+        "strength": 11,
+        "agility": 20,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 22,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_162",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Cleric of Light",
+        "type": "Mage",
+        "strength": 12,
+        "agility": 14,
+        "health": 18,
+        "mana": 28,
+        "dexterity": 16,
+        "wisdom": 24
+      },
+      {
+        "name": "Shadow Dancer",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 28,
+        "health": 17,
+        "mana": 10,
+        "dexterity": 30,
+        "wisdom": 18
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_163",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Solo Bandit King",
+        "type": "Bandit",
+        "strength": 28,
+        "agility": 26,
+        "health": 30,
+        "mana": 10,
+        "dexterity": 25,
+        "wisdom": 18
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_164",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Just Smart Enough",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 18,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 17,
+        "wisdom": 20
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_165",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Team Heavyfoot",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 10,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 8,
+        "wisdom": 9
+      },
+      {
+        "name": "Team Butterfingers",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 12,
+        "health": 12,
+        "mana": 25,
+        "dexterity": 9,
+        "wisdom": 22
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_166",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Four Hopefuls A",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 25,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 14
+      },
+      {
+        "name": "Four Hopefuls B",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 26,
+        "health": 14,
+        "mana": 5,
+        "dexterity": 23,
+        "wisdom": 15
+      },
+      {
+        "name": "Four Hopefuls C",
+        "type": "Rogue",
+        "strength": 16,
+        "agility": 24,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 21,
+        "wisdom": 13
+      },
+      {
+        "name": "Four Hopefuls D",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 27,
+        "health": 13,
+        "mana": 5,
+        "dexterity": 24,
+        "wisdom": 16
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_167",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Archivist",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 11,
+        "health": 13,
+        "mana": 32,
+        "dexterity": 14,
+        "wisdom": 36
+      },
+      {
+        "name": "Thug Guard",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 12,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 4
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_168",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Solo Grace",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 35,
+        "health": 20,
+        "mana": 10,
+        "dexterity": 40,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_169",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Wall",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 10,
+        "health": 45,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 8
+      },
+      {
+        "name": "The Hammer",
+        "type": "Barbarian",
+        "strength": 38,
+        "agility": 12,
+        "health": 40,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_170",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Inquisitive Bandit",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 20,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 19,
+        "wisdom": 22
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_171",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Duo of Mages A",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 15,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 14,
+        "wisdom": 24
+      },
+      {
+        "name": "Duo of Mages B",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 16,
+        "health": 11,
+        "mana": 29,
+        "dexterity": 13,
+        "wisdom": 25
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_172",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Perfect Team A",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 15,
+        "health": 40,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 10
+      },
+      {
+        "name": "Perfect Team B",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 16,
+        "health": 15,
+        "mana": 30,
+        "dexterity": 18,
+        "wisdom": 28
+      },
+      {
+        "name": "Perfect Team C",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 28,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 30,
+        "wisdom": 16
+      },
+      {
+        "name": "Perfect Team D",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 22,
+        "health": 25,
+        "mana": 10,
+        "dexterity": 24,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_173",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Just Barely",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 20,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 18,
+        "wisdom": 21
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_174",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "The Unlucky Scholar",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 13,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 10,
+        "wisdom": 30
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_175",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Low Health Trio A",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 15,
+        "health": 9,
+        "mana": 28,
+        "dexterity": 14,
+        "wisdom": 24
+      },
+      {
+        "name": "Low Health Trio B",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 26,
+        "health": 11,
+        "mana": 5,
+        "dexterity": 24,
+        "wisdom": 15
+      },
+      {
+        "name": "Low Health Trio C",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 22,
+        "health": 13,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_176",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Team Genius A",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 14,
+        "health": 14,
+        "mana": 33,
+        "dexterity": 16,
+        "wisdom": 35
+      },
+      {
+        "name": "Team Genius B",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 15,
+        "health": 13,
+        "mana": 34,
+        "dexterity": 17,
+        "wisdom": 36
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_177",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "The Acrobat",
+        "type": "Bandit",
+        "strength": 15,
+        "agility": 30,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 28,
+        "wisdom": 16
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_178",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Weak but Mighty",
+        "type": "Barbarian",
+        "strength": 20,
+        "agility": 10,
+        "health": 22,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_179",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Brute Squad A",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 12,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 6
+      },
+      {
+        "name": "Brute Squad B",
+        "type": "Bandit",
+        "strength": 22,
+        "agility": 18,
+        "health": 24,
+        "mana": 5,
+        "dexterity": 16,
+        "wisdom": 9
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_180",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Overconfident",
+        "type": "Rogue",
+        "strength": 14,
+        "agility": 25,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_181",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Four Horsemen A",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 15,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 13,
+        "wisdom": 9
+      },
+      {
+        "name": "The Four Horsemen B",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 16,
+        "health": 14,
+        "mana": 29,
+        "dexterity": 17,
+        "wisdom": 26
+      },
+      {
+        "name": "The Four Horsemen C",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 27,
+        "health": 17,
+        "mana": 10,
+        "dexterity": 29,
+        "wisdom": 17
+      },
+      {
+        "name": "The Four Horsemen D",
+        "type": "Bandit",
+        "strength": 20,
+        "agility": 23,
+        "health": 22,
+        "mana": 10,
+        "dexterity": 21,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_182",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Lone Thinker",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 22,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 24,
+        "wisdom": 28
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_183",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "The Specialist",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 28,
+        "health": 15,
+        "mana": 5,
+        "dexterity": 35,
+        "wisdom": 18
+      },
+      {
+        "name": "The Apprentice",
+        "type": "Bandit",
+        "strength": 14,
+        "agility": 22,
+        "health": 17,
+        "mana": 5,
+        "dexterity": 20,
+        "wisdom": 14
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_184",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Glass Cannon",
+        "type": "Mage",
+        "strength": 6,
+        "agility": 15,
+        "health": 7,
+        "mana": 40,
+        "dexterity": 16,
+        "wisdom": 28
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_185",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Two Scholars",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 13,
+        "health": 14,
+        "mana": 30,
+        "dexterity": 15,
+        "wisdom": 33
+      },
+      {
+        "name": "And a Fool",
+        "type": "Barbarian",
+        "strength": 28,
+        "agility": 12,
+        "health": 32,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 5
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_186",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "The Unlucky Duo A",
+        "type": "Barbarian",
+        "strength": 26,
+        "agility": 9,
+        "health": 30,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 11
+      },
+      {
+        "name": "The Unlucky Duo B",
+        "type": "Barbarian",
+        "strength": 27,
+        "agility": 8,
+        "health": 31,
+        "mana": 5,
+        "dexterity": 6,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_187",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Tank and Spank A",
+        "type": "Barbarian",
+        "strength": 33,
+        "agility": 12,
+        "health": 42,
+        "mana": 5,
+        "dexterity": 11,
+        "wisdom": 9
+      },
+      {
+        "name": "Tank and Spank B",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 29,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 31,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_188",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "The Ponderers A",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 14,
+        "health": 13,
+        "mana": 31,
+        "dexterity": 16,
+        "wisdom": 34
+      },
+      {
+        "name": "The Ponderers B",
+        "type": "Rogue",
+        "strength": 12,
+        "agility": 21,
+        "health": 16,
+        "mana": 10,
+        "dexterity": 23,
+        "wisdom": 26
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_189",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Solo Mage Hazard",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 15,
+        "health": 12,
+        "mana": 28,
+        "dexterity": 13,
+        "wisdom": 26
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_190",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Berserker",
+        "type": "Barbarian",
+        "strength": 40,
+        "agility": 14,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 6
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_191",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Illiterate Rogue",
+        "type": "Rogue",
+        "strength": 13,
+        "agility": 25,
+        "health": 16,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 7
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_192",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Jack of All Trades",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 18,
+        "health": 18,
+        "mana": 10,
+        "dexterity": 18,
+        "wisdom": 18
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_193",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Cowardly",
+        "type": "Bandit",
+        "strength": 12,
+        "agility": 15,
+        "health": 11,
+        "mana": 5,
+        "dexterity": 14,
+        "wisdom": 9
+      },
+      {
+        "name": "And The Bold",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 14,
+        "health": 38,
+        "mana": 5,
+        "dexterity": 12,
+        "wisdom": 10
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_194",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Three Sages A",
+        "type": "Mage",
+        "strength": 9,
+        "agility": 14,
+        "health": 13,
+        "mana": 30,
+        "dexterity": 16,
+        "wisdom": 32
+      },
+      {
+        "name": "Three Sages B",
+        "type": "Mage",
+        "strength": 8,
+        "agility": 15,
+        "health": 12,
+        "mana": 31,
+        "dexterity": 15,
+        "wisdom": 33
+      },
+      {
+        "name": "Three Sages C",
+        "type": "Mage",
+        "strength": 10,
+        "agility": 13,
+        "health": 14,
+        "mana": 29,
+        "dexterity": 17,
+        "wisdom": 31
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_195",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "The Unlucky",
+        "type": "Bandit",
+        "strength": 16,
+        "agility": 15,
+        "health": 17,
+        "mana": 5,
+        "dexterity": 14,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_196",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "The Shield",
+        "type": "Barbarian",
+        "strength": 25,
+        "agility": 12,
+        "health": 48,
+        "mana": 5,
+        "dexterity": 10,
+        "wisdom": 9
+      },
+      {
+        "name": "The Spear",
+        "type": "Bandit",
+        "strength": 25,
+        "agility": 25,
+        "health": 25,
+        "mana": 5,
+        "dexterity": 22,
+        "wisdom": 13
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_197",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "Balanced Duo A",
+        "type": "Mage",
+        "strength": 15,
+        "agility": 15,
+        "health": 15,
+        "mana": 20,
+        "dexterity": 15,
+        "wisdom": 25
+      },
+      {
+        "name": "Balanced Duo B",
+        "type": "Rogue",
+        "strength": 15,
+        "agility": 20,
+        "health": 15,
+        "mana": 10,
+        "dexterity": 20,
+        "wisdom": 15
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_198",
+    "encounter": { "event_type": "Ancient Trap" },
+    "party": [
+      {
+        "name": "Doom Patrol A",
+        "type": "Barbarian",
+        "strength": 30,
+        "agility": 9,
+        "health": 34,
+        "mana": 5,
+        "dexterity": 7,
+        "wisdom": 8
+      },
+      {
+        "name": "Doom Patrol B",
+        "type": "Barbarian",
+        "strength": 29,
+        "agility": 8,
+        "health": 33,
+        "mana": 5,
+        "dexterity": 6,
+        "wisdom": 7
+      },
+      {
+        "name": "Doom Patrol C",
+        "type": "Barbarian",
+        "strength": 31,
+        "agility": 7,
+        "health": 35,
+        "mana": 5,
+        "dexterity": 5,
+        "wisdom": 6
+      }
+    ],
+    "actual_outcome": "failure"
+  },
+  {
+    "log_id": "log_199",
+    "encounter": { "event_type": "Dragon Fight" },
+    "party": [
+      {
+        "name": "Solo Veteran",
+        "type": "Barbarian",
+        "strength": 32,
+        "agility": 18,
+        "health": 45,
+        "mana": 5,
+        "dexterity": 16,
+        "wisdom": 12
+      }
+    ],
+    "actual_outcome": "success"
+  },
+  {
+    "log_id": "log_200",
+    "encounter": { "event_type": "Mystic Puzzle" },
+    "party": [
+      {
+        "name": "The Guessers A",
+        "type": "Bandit",
+        "strength": 18,
+        "agility": 20,
+        "health": 19,
+        "mana": 5,
+        "dexterity": 18,
+        "wisdom": 9
+      },
+      {
+        "name": "The Guessers B",
+        "type": "Bandit",
+        "strength": 17,
+        "agility": 21,
+        "health": 18,
+        "mana": 5,
+        "dexterity": 19,
+        "wisdom": 8
+      }
+    ],
+    "actual_outcome": "failure"
+  }
+]
